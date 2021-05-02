@@ -31,7 +31,7 @@ Ruled by @kc_jp
                         "💬 Group", url="https://t.me/Spam_aka"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/krazygif"
+                        "🔊 Channel", url="https://t.me/Spam_aka"
                     ),
                     InlineKeyboardButton(
                         "💾 Source code", url="https://github.com/Nuraplays/VCPlayBot"
@@ -58,7 +58,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/LaylaList"
+                        "🔊 Channel", url="https://t.me/Spam_aka"
                     )
                 ],    
                 [    
@@ -104,7 +104,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Krazygif"
+                        "🔊 Channel", url="https://t.me/Spam_aka"
                     )
                 ]
             ]
