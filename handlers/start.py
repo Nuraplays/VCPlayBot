@@ -34,7 +34,7 @@ Ruled by @kc_jp
                         "🔊 Channel", url="https://t.me/Spam_aka"
                     ),
                     InlineKeyboardButton(
-                        "💾 Source code", url="https://github.com/Nuraplays/VCPlayBot"
+                        "💾 Source code", url="https://github.com"
                     )
                 ],
                 [
